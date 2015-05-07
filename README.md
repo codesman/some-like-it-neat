@@ -1,5 +1,5 @@
 
-# Some Like it Neat
+# Some Like it Neat or not
 
 ### A WordPress Theme Using _s, Bourbon + Neat and Theme Hook Alliance
 
